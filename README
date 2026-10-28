@@ -1,0 +1,12 @@
+Hi,
+
+This is the storage for raw qPCR data from my manuscript "Methanomassiliicoccales unexpectedly predominates in the freshwater lake sediments: A case study of Quesnel Lake". WHy you would be reanalyzing it I do not know, but if so enjoy!
+
+  There'll be two folders, one for the bacterial 16S copy assay and one for the archaeal 16S copy assay. I'm just going to sorta throw all the raw data at the wall and you can see what sticks. Unfortunetly for you I never bothered to relabel the sample names in the biorad software (it was kinda a pain in the ass), 
+  each folder should also include a data working excel spreadsheet. I don't exactly explain what I'm doing in these BUT on the raw data tab you can match the cell number to the sample ID, and then on the clean tab you can match the sampleID to the layer and the depth. PS. you only care about QLN samples (Quesnel Lake natural sediment), everything else is for a different site
+  PS. part 2. on the working tab you can see me modify sample raw copies per well to copies per gram, this is from the extraction information. the "complicated" samples still list the masses in the formula but multiple extractions had to be combined to get realistic working numbers (for the sequencing not necessarily the qPCR but I wanted paired data)
+  PS. part 3. NTC is no template control for qPCR and Qiagen blank is the blank dna extraction I ran                                                                                                                                                                                                                                                                                 
+
+  But what about the standard curve! You can see which cells are the standards and their manually entered copies per gram under the QUantification summary
+                                                                                                                                                                                                                                                                                   
+Cheers, goodluck, email me if you wanna know more
